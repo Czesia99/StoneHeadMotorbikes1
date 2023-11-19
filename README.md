@@ -11,4 +11,6 @@ Downloadable at: https://czesia.itch.io/stoneheadmotorbikes
 <img src = "Screenshots/lvl1.png">
 </p>
 
-Made in two weeks with MaximeFont
+Made in two weeks with MaximeFont : https://github.com/MaximeFont
+
+thanks for playing
